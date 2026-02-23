@@ -1,9 +1,6 @@
 # 🔥 Predicting the Spark: An Investigation into the Drivers of US Wildfires
 
 A comprehensive machine learning project that predicts wildfire risk across the continental United States by integrating meteorological data, historical wildfire records, and a novel vegetation fuel combustibility index (C-index) engineered from FBFM40 raster data.
-
-**Authors:** Haoda Dai, Yuheng Song, Shengwei Zhang
-
 ---
 
 ## Table of Contents
